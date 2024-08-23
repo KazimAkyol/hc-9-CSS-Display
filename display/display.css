@@ -1,0 +1,26 @@
+
+
+h1{
+    background-color: greenyellow;
+}
+
+
+a{
+    background-color: orange;
+}
+
+strong{
+    background-color: teal;
+    margin-top: 150px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+span{
+    background-color: magenta;
+}
+
+.div1{
+    background-color: olive;
+}
