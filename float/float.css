@@ -8,3 +8,42 @@ img{
 .par1{
     background-color: orange;
 }
+
+.par2{
+    background-color: purple;
+    /* clear: both; */
+}
+
+.clear{
+    clear: both;
+}
+
+.container{
+    border: 3px solid red;
+}
+
+.box1{
+    background-color: purple;
+    float: left;
+    width: 33%;
+    height: 100px;
+}
+
+.box2{
+    background-color: yellow;
+    float: left;
+    width: 33%;
+    height: 150px;
+
+}
+
+.box3{
+    background-color: blue;
+    float: left;
+    width: 33%;
+    height: 200px;
+    background-image: url("https://picsum.photos/id/250/600/400");
+    background-size: cover;
+    background-position: ;
+
+}

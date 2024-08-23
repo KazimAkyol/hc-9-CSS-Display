@@ -1,0 +1,46 @@
+* {
+  /* border: 2px solid black; */
+}
+
+header,
+main,
+aside,
+article,
+footer {
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+}
+
+header {
+  background-color: seagreen;
+
+  margin-top: 10px;
+}
+
+main {
+  background-color: skyblue;
+  padding: 10px;
+  /* height: 310px; */
+  /* overflow: auto; */
+  
+}
+
+aside {
+  background-color: darkorange;
+  height: 300px;
+  float: left;
+  width: 25%;
+  margin: 5px;
+}
+
+article {
+  background-color: greenyellow;
+  height: 300px;
+  width: 70%;
+  float: left;
+}
+
+footer {
+  background-color: crimson;
+}
