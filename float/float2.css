@@ -23,7 +23,7 @@ main {
   padding: 10px;
   /* height: 310px; */
   /* overflow: auto; */
-  
+
 }
 
 aside {
@@ -43,4 +43,14 @@ article {
 
 footer {
   background-color: crimson;
+}
+
+.clear{
+    /* clear: both; */
+}
+
+.clearfix::after{
+    content: 🚗;
+    display: block;
+    clear: both;
 }
