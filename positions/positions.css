@@ -56,4 +56,18 @@ main{
     position: sticky;
     top: 5px;
     left: 0;
+    z-index: 5;
+}
+
+#par2{
+    background-color: gray;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    z-index: 4;
+}
+
+nav{
+    background-color: orange;
+    border-radius: 10px;
 }
