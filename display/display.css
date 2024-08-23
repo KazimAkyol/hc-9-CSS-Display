@@ -1,26 +1,79 @@
-
-
 h1{
     background-color: greenyellow;
 }
 
-
 a{
     background-color: orange;
+    /* display: inline-block; */
+    width: 150px;
+    height: 200px;
 }
 
 strong{
     background-color: teal;
-    margin-top: 150px;
-    margin: 10px;
-    padding: 10px;
-    display: inline-block;
+    margin: 15px;
+    padding: 20px;
+
 }
 
 span{
     background-color: magenta;
+    /* margin: 10px; */
+    width: 100%;
+    display: inline-block;
+}
+
+button{
+    padding: 10px;
+    padding: 50px;
 }
 
 .div1{
     background-color: olive;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    padding: 10px;
 }
+
+
+
+
+.inlineblockspan{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    /* margin: 50px; */
+    
+}
+
+.inlineblockspan{
+
+}
+
+.box{
+    margin-top: 20px;
+    background-color: olive;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.box2{
+    background-color: orange;
+    display: none;
+}
+
+.box5{
+    background-color: fuchsia;
+    visibility: hidden;
+}
+
+
+
+
+
+
+
+
+
