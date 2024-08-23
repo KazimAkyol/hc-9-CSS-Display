@@ -48,3 +48,12 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.par1{
+    background-color: rgba(137, 43, 226, 0.839);
+    border-radius: 10px;
+    padding: 10px;
+    position: sticky;
+    top: 5px;
+    left: 0;
+}
